@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to create websites
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me : it is private
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I love coding
 
 <!---
