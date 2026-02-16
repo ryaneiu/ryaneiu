@@ -1,11 +1,39 @@
-## - 👋 Hi, I’m @ryaneiu
-# - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to create websites
-- 💞️ I’m looking to collaborate on a reddit clone (i already did)
-- 📫 How to reach me : ryan.mh.xu@gmail.com or 3176740@csmv.qc.ca
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love coding
-<!---
-ryaneiu/ryaneiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Hi, I’m Ryan (@ryaneiu)
+
+### 💻 Full‑stack developer in Secondary 2  
+I love building web apps, learning new technologies, and collaborating on projects that push my skills.
+
+---
+
+### 🔥 What I’m working on
+- A **Reddit‑inspired web app** built with:
+  - Django REST Framework  
+  - Argon2 hashing  
+  - JWT cookies  
+  - React + Vite + Tailwind  
+- Hosted on PythonAnywhere  
+- Built with my friend **@CariLT01**
+
+---
+
+### 🌱 Currently learning
+- Advanced React patterns  
+- Django authentication  
+- API design  
+- Tailwind components  
+
+---
+
+### 📫 Contact me
+- **Email:** ryan.mh.xu@gmail.com  
+- **School:** 3176740@csmv.qc.ca  
+
+---
+
+### 😄 Pronouns
+He/Him
+
+---
+
+### ⚡ Fun fact
+I love coding and I’m always building something new.
