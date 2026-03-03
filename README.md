@@ -1,7 +1,7 @@
 ## 🚀 Hi, I’m Ryan (@ryaneiu)
 
 ### 💻 Full‑stack developer in Secondary 2  
-I love building web apps, learning new technologies, and collaborating on projects that push my skills.
+I like building web apps, learning new technologies, and collaborating on projects that push my skills.
 
 ---
 
@@ -17,10 +17,10 @@ I love building web apps, learning new technologies, and collaborating on projec
 ---
 
 ### 🌱 Currently learning
-- Advanced React patterns  
-- Django authentication  
-- API design  
-- Tailwind components  
+DRF
+Argon2
+JWT
+Mayve visual C++
 
 ---
 
