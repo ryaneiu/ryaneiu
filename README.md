@@ -1,6 +1,6 @@
 ## 🚀 Hi, I’m Ryan (@ryaneiu)
 
-### 💻 Full‑stack developer in Secondary 2  
+### 💻 Full‑stack developer
 I like building web apps, learning new technologies, and collaborating on projects that push my skills.
 
 ---
