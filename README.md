@@ -20,7 +20,7 @@ I like building web apps, learning new technologies, and collaborating on projec
 DRF
 Argon2
 JWT
-Mayve visual C++
+Maybe visual C++
 
 ---
 
