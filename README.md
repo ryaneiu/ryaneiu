@@ -17,10 +17,15 @@ I like building web apps, learning new technologies, and collaborating on projec
 ---
 
 ### 🌱 Currently learning
-DRF
-Argon2
-JWT
-Maybe visual C++
+- DRF
+
+- Argon2
+
+- JWT
+
+- Maybe visual C++
+  
+- Maybe C++
 
 ---
 
