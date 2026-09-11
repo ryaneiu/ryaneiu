@@ -13,6 +13,7 @@ I like building web apps, learning new technologies, and collaborating on projec
   - React + Vite + Tailwind  
 - Hosted on PythonAnywhere  
 - Built with my friend **@CariLT01**
+- A book called _The Day Their Shadows Froze_
 
 ---
 
